@@ -1,6 +1,6 @@
 # First Portfolio (HTML & CSS)
 
-This is my very first portfolio project, built in **March 2024** when I started learning CSS.  
+This is my very first portfolio project, built on **March 2024** when I started learning CSS.  
 It showcases my early experiments with styling, animations, and responsive design.
 
 ---
@@ -36,8 +36,8 @@ It showcases my early experiments with styling, animations, and responsive desig
 ---
 
 ## 🌐 Deployment
-This project is deployed using **GitHub Pages / Netlify / Vercel** (choose the one you used).  
-👉 [Live Demo Link](#) *(replace with your actual link)*
+This project is deployed using **GitHub Pages** (choose the one you used).  
+👉 [Live Demo Link](https://mary1na-code.github.io/ezinne-portfolio-v1/)
 
 ---
 
